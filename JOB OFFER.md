@@ -1,4 +1,4 @@
-# Platformer
+# JOB OFFER:
 Searching for people wanting to create a platformer in a team.
 
 I would prefer 16-bit pixel art, but other is also possible.
