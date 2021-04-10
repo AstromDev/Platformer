@@ -21,7 +21,7 @@ what we did well + a rating from 1/10. The money mad from the game will be split
 can sell our game, check the thing below!
 
 
-![Red_Line](https://user-images.githubusercontent.com/82232545/114261203-a3345180-99d9-11eb-83e0-fb59570ae9ed.png)
+![redline](https://user-images.githubusercontent.com/82232545/114261261-eabadd80-99d9-11eb-9918-84714562b494.png)
 
 Interested in testing, or contributing?
 Be sure to leave a comment, DM me on discord (Ducky King#7982), or mail me via alain.josso.aka@gmail.com!
