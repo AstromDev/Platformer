@@ -12,12 +12,16 @@ Bosses/enemies: Cute. (Already added 3 bosses/enemies, take a look at Platformer
 Player: No idea yet.
 Level: Also no idea yet.
 
+# Name
+If you have a name for this platformer, check the widget below!
+
 # Selling
 I don't know a specific price yet, but i first wanted some people to test it out, and say what we can make better, if they discovered any bugs/glitches and
 what we did well + a rating from 1/10. The money mad from the game will be split, and everyone will get the same amount. Also, if you have a website were we
 can sell our game, check the thing below!
 
 
+![Red_Line](https://user-images.githubusercontent.com/82232545/114261203-a3345180-99d9-11eb-83e0-fb59570ae9ed.png)
 
 Interested in testing, or contributing?
 Be sure to leave a comment, DM me on discord (Ducky King#7982), or mail me via alain.josso.aka@gmail.com!
