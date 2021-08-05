@@ -15,12 +15,6 @@ Level: Also no idea yet.
 # Name
 If you have a name for this platformer, check the widget below!
 
-# Selling
-I don't know a specific price yet, but i first wanted some people to test it out, and say what we can make better, if they discovered any bugs/glitches and
-what we did well + a rating from 1/10. The money mad from the game will be split, and everyone will get the same amount. Also, if you have a website were we
-can sell our game, check the widget below!
-
-
 ![redline](https://user-images.githubusercontent.com/82232545/114261261-eabadd80-99d9-11eb-9918-84714562b494.png)
 
 Interested in testing, or contributing?
