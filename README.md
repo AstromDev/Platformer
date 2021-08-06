@@ -11,4 +11,4 @@ Characters: Wizards, Swordsmen, Archers.
 If you have a name for this platformer, this is my contact information!
 
 Interested in testing, or contributing?
-Be sure to leave a comment, DM me on discord ), or mail me via alain.josso.aka@gmail.com!
+Be sure to leave a comment, DM me on discord: Astrom 😈#7982, or mail me via alain.josso.aka@gmail.com!
