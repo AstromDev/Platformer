@@ -1,9 +1,10 @@
 # Theme
-16-bit/8-bit pixel art: ![Pink_Monster](https://user-images.githubusercontent.com/82232545/114261068-d1fdf800-99d8-11eb-9f2c-f2d51d6c39ea.png)
+Simple 16-bit/8-bit pixel art.
+A game about Wizards, trolls, dwarfs and such.
 
-Bosses/enemies: Cute. (Already added 3 bosses/enemies, take a look at Platformer/Game/Enemy).
-Player: No idea yet.
-Level: Also no idea yet.
+Bosses: Mythical creatures.
+Characters: Wizards, Swordsmen, Archers.
+
 
 
 # Name
