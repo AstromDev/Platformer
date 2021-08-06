@@ -7,9 +7,7 @@ Level: Also no idea yet.
 
 
 # Name
-If you have a name for this platformer, check the widget below!
-
-![redline](https://user-images.githubusercontent.com/82232545/114261261-eabadd80-99d9-11eb-9918-84714562b494.png)
+If you have a name for this platformer, this is my contact information!
 
 Interested in testing, or contributing?
-Be sure to leave a comment, DM me on discord (Ducky King#7982), or mail me via alain.josso.aka@gmail.com!
+Be sure to leave a comment, DM me on discord ), or mail me via alain.josso.aka@gmail.com!
